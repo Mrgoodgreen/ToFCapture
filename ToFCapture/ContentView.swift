@@ -6,7 +6,7 @@
 
 import UIKit
 import AVFoundation
-
+ 
 class ViewController: UIViewController, AVCaptureDepthDataOutputDelegate {
 
   var captureDevice: AVCaptureDevice!
@@ -132,3 +132,4 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
