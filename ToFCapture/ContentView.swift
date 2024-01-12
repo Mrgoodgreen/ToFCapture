@@ -1,8 +1,6 @@
 //  ViewController.swift
 //  ToFCapture
 //
-//  Created by Иван Романенко on 12.01.2024.
-//
 
 import UIKit
 import AVFoundation
@@ -98,9 +96,6 @@ class ViewController: UIViewController, AVCaptureDepthDataOutputDelegate {
 
 //  ViewControllerRepresentable.swift
 //  ToFCapture
-//
-//  Created by Иван Романенко on 12.01.2024.
-//
 
 import SwiftUI
 
@@ -133,3 +128,4 @@ struct ContentView: View {
     ContentView()
 }
 
+//full code
