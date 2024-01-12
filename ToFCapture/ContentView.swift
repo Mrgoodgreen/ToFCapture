@@ -128,4 +128,4 @@ struct ContentView: View {
     ContentView()
 }
 
-//full code
+//full code of app
